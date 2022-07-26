@@ -1,0 +1,3 @@
+impostor:
+1) kill if aviable
+2) report instaly
